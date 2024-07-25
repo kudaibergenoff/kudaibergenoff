@@ -1,5 +1,7 @@
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" />
-## Hi there 👋
+# Hi there 👋
+
+I'm a Zhanuzak Kudaibergenov, Software Developer focusing on PHP (Laravel), Golang and Javascript (NodeJS, ReactJS, VueJS).
 
 <!--
 **kudaibergenoff/kudaibergenoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
