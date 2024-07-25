@@ -1,7 +1,7 @@
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" />
 # Hi there 👋
 
-I'm a Zhanuzak Kudaibergenov, Software Developer focusing on PHP (Laravel), Golang and Javascript (NodeJS, ReactJS, VueJS).
+**I'm a Zhanuzak Kudaibergenov, Software Developer focusing on PHP (Laravel), Golang and Javascript (NodeJS, ReactJS, VueJS). <img src="https://camo.githubusercontent.com/89cee19ca62c04c2858e6f227dd3d51ee3e4835978beb71f079a00b26c2b4046/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" />
 
 <!--
 **kudaibergenoff/kudaibergenoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
