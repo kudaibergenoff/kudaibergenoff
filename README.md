@@ -13,6 +13,8 @@
 
 <h3>🚀 Some Tools I Use</h3>
 <p align="left">
+  <img src="https://cdn.svgporn.com/logos/php.svg" alt="php" width="25" height="25" />
+  <img src="https://cdn.svgporn.com/logos/laravel.svg" alt="laravel" width="25" height="25" />
   <img src="https://cdn.svgporn.com/logos/go.svg" alt="go" width="25" height="25" />
   <img src="https://cdn.svgporn.com/logos/java.svg" alt="java" width="25" height="25" />
   <img src="https://cdn.svgporn.com/logos/spring-icon.svg" alt="spring" width="25" height="25" />
