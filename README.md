@@ -39,6 +39,10 @@
   <img src="https://cdn.svgporn.com/logos/nestjs.svg" alt="postgresql" width="25" height="25" />
 </p>
 
+### Github stats
+
+<img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kudaibergenoff&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" alt="kudaibergenoff">
+
 <!--
 **kudaibergenoff/kudaibergenoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
