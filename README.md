@@ -1,7 +1,7 @@
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" />
 <h2>Hi there 👋</h2>
 
-<h5>I'm a Zhanuzak Kudaibergenov, Software Developer focusing on ✨ PHP (Laravel), Golang and Javascript (NodeJS, ReactJS, VueJS) ✨. </h5>
+<h5>I'm a Zhanuzak Kudaibergenov, Software Developer focusing on ✨ PHP (Laravel), Golang, Python(FastAPI) and Javascript (NodeJS, ReactJS, VueJS) ✨. </h5>
 
 <br />
 
